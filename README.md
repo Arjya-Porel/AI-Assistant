@@ -12,10 +12,10 @@ This project is a voice-enabled automation system that integrates speech recogni
 Key Features
 
 
-   Speech Recognition – Converts spoken commands into actionable text
-   Text-to-Speech Output – Provides real-time voice responses
-   Web Automation – Opens and interacts with platforms like Google and YouTube
-   System Operations – Launches native applications such as Calculator and Notepad
-   Graphical User Interface (GUI) – Simple and interactive interface for user interaction
-   Command Execution Engine – Processes natural language commands and maps them to system actions
-   Real-Time Interaction – Continuous listening and response cycle for smooth usability
+  1. Speech Recognition – Converts spoken commands into actionable text
+  2.Text-to-Speech Output – Provides real-time voice responses
+  3. Web Automation – Opens and interacts with platforms like Google and YouTube
+  4. System Operations – Launches native applications such as Calculator and Notepad
+  5. Graphical User Interface (GUI) – Simple and interactive interface for user interaction
+  6.Command Execution Engine – Processes natural language commands and maps them to system actions
+  7. Real-Time Interaction – Continuous listening and response cycle for smooth usability
