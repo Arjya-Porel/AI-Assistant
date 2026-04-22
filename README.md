@@ -10,6 +10,8 @@ This project is a voice-enabled automation system that integrates speech recogni
 
 
 Key Features
+
+
    Speech Recognition – Converts spoken commands into actionable text
    Text-to-Speech Output – Provides real-time voice responses
    Web Automation – Opens and interacts with platforms like Google and YouTube
