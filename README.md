@@ -1,16 +1,17 @@
-AI Voice Assistant
+AI Voice Assistant Named Pluto:-
 
 An AI-powered voice-controlled desktop assistant built using Python that enables hands-free interaction with the system. The assistant can understand voice commands, execute system operations, and interact with web services, providing a seamless human-computer interaction experience.
 
+ Project Demo:-
 
+[![Watch Demo](https://img.youtube.com/vi/xfif03inN_g/0.jpg)](https://youtu.be/xfif03inN_g)
 
-Overview
+Overview:-
 
 This project is a voice-enabled automation system that integrates speech recognition and text-to-speech capabilities to perform everyday computing tasks. It allows users to control applications, access web services, and interact with the system using natural voice commands.
 
 
-Key Features
-
+Key Features:-
 
   1. Speech Recognition – Converts spoken commands into actionable text
   2.Text-to-Speech Output – Provides real-time voice responses
